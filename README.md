@@ -14,7 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This page should generate a password chosing some options.
 
+```bash
 Next challenges: 
 -Upgrade pass algoritm
 -Upgrade Design
 -Add a function: send pass to an email
+```
